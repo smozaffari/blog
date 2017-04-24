@@ -1,0 +1,3 @@
+baseURL = "http://smozaffari.github.io/index.html"
+languageCode = "en-us"
+title = "My New Hugo Site"
