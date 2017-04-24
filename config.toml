@@ -18,8 +18,8 @@ canonifyurls = true
 
 [author]
   name = "Sahar Mozaffari"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
+  bio = "I’m a statistical geneticist currently working on disentangling the relationship between genotype and phenotype in humans. I’m a problem solver driven to help advance our field in decoding the genome. My two main interests focus on how our genomes have evolved (from my background in development and evolution); as well as understanding how genetic variation contributes to human disease. I also enjoy sharing scientific knowledge, through discussion, art, and articles."
+  job = "PhD student"
   location = "Chicago, IL"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 #  gravatarEmail = "smozaffari[at]uchicago[dot]edu"
@@ -69,12 +69,12 @@ canonifyurls = true
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/smozaffari"
-#[[menu.links]]
-#  weight = 1
-# identifier = "stackoverflow"
-#  name = "Stack Overflow"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-#  url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+  weight = 1
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://twitter.com/saharmozaffari"
 
 [[menu.misc]]
   weight = 0
